@@ -7,4 +7,7 @@
 + (void)showSuccess:(NSString *)text;
 ```
 
-
+## 显示失败信息
+```objc
++ (void)showError:(NSString *)text;
+```
